@@ -1,0 +1,8 @@
+{
+  "name": "MeeshoShop Social Reseller & Shopify Sync",
+  "description": "A professional full-stack Meesho clone combined with an interactive Shopify Liquid template generator, and a live simulated Firebase Firestore console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
